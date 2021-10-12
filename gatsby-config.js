@@ -12,9 +12,13 @@
 
 module.exports = {
   siteMetadata: {
+    home: {
+      title: 'App Builder',
+      path: '/app-builder/'
+    },
     pages: [
       {
-        title: 'CC Libraries API',
+        title: 'Trial Sign up',
         path: 'index.md'
       }
     ]
